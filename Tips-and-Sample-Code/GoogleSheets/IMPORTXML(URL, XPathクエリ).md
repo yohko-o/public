@@ -1,6 +1,9 @@
-## IMPORTXML(URL, XPathクエリ)
+## Google スプレッドシートでスクレイピングする
+
+### IMPORTXML(URL, XPathクエリ)
 XML、HTML、CSV、TSV、RSS フィード、Atom XML フィードなど、さまざまな種類の構造化データからデータをインポートします。<br>
 https://support.google.com/docs/answer/3093342?hl=ja<br>
+簡単な構成のホームページであれば、スクレイピングもできます。<br>
 XPathについて分かりやすいサイト<br>
 https://blog.members.co.jp/article/37782<br>
 <br>
