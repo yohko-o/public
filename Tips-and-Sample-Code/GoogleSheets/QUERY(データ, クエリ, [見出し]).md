@@ -1,4 +1,6 @@
-## QUERY(データ, クエリ, [見出し])
+## Google スプレッドシートで目的のデータを出力する
+
+### QUERY(データ, クエリ, [見出し])
 Google Visualization API のクエリ言語を使用して、データ全体に対するクエリを実行します。<br>
 https://support.google.com/docs/answer/3093343?hl=ja<br>
 * データ - クエリを実行するセルの範囲です。<br>
